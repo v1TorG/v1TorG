@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Formado em Análise e Desenvolvimento de Sistemas e Pós-graduação em Desenvolvimento Web Full Stack. Apaixonado por tecnologia, programação e sempre buscando aprender mais a cada projeto. Estou em constante aprendizado, buscando sempre evoluir minhas habilidades técnicas e ampliar meus conhecimentos na área de desenvolvimento.
+Formado em Análise e Desenvolvimento de Sistemas e Pós-graduação em Desenvolvimento Web Full Stack. Apaixonado por tecnologia, programação e sempre buscando aprender mais a cada projeto. Estou em constante aprendizado, procurando sempre evoluir minhas habilidades técnicas e ampliar meus conhecimentos na área de desenvolvimento.
 
 
 ---
